@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Whatizit</string>
+    <string name="app_tag">Whatizit</string>
+    <string name="api_key">fhxX7vssCFCG6eQV31iiBcuug-MKbyG-oEub09XmTaol</string>
+    <string name="url">https://api.us-south.visual-recognition.watson.cloud.ibm.com/instances/8d8f6f6b-bcf7-477e-9842-51309ad40f28</string>
+    <string name="version_date">2018-03-19</string>
+</resources>
